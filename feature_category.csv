@@ -1,0 +1,50 @@
+,Feature,Category if Applicable
+0,Avg min between sent tnx,
+1,Avg min between received tnx,
+2,Time Diff between first and last (Mins),
+3,min value received,
+4,max value received ,
+5,avg val received,
+6,max val sent,
+7,avg val sent,
+8,total Ether sent,
+9, ERC20 uniq sent addr,
+10, ERC20 min val rec,
+11, ERC20 avg val rec,
+12, ERC20 max val sent,
+13,Sent tnx,
+14,Unique Received From Addresses,
+15, ERC20 uniq rec addr,
+16, ERC20 uniq rec token name,
+17,hasCreatedContracts,
+18,ERC-20 info all NA,
+19, ERC20_most_rec_token_type,BAT
+20, ERC20_most_rec_token_type,Blockwell say NOTSAFU
+21, ERC20_most_rec_token_type,Bulleon Promo Token
+22, ERC20_most_rec_token_type,DATAcoin
+23, ERC20_most_rec_token_type,EOS
+24, ERC20_most_rec_token_type,ERC20
+25, ERC20_most_rec_token_type,Free BOB Tokens - BobsRepair.com
+26, ERC20_most_rec_token_type,GSENetwork
+27, ERC20_most_rec_token_type,Golem
+28, ERC20_most_rec_token_type,INS Promo
+29, ERC20_most_rec_token_type,KickCoin
+30, ERC20_most_rec_token_type,Livepeer Token
+31, ERC20_most_rec_token_type,OmiseGO
+32, ERC20_most_rec_token_type,Promodl
+33, ERC20_most_rec_token_type,StatusNetwork
+34, ERC20_most_rec_token_type,Tronix
+35, ERC20_most_rec_token_type,Unknown
+36, ERC20_most_rec_token_type,VIU
+37, ERC20_most_rec_token_type,XENON
+38, ERC20_most_rec_token_type,blockwell.ai KYC Casper Token
+39, ERC20_most_rec_token_type,others
+40, ERC20 most sent token type,BAT
+41, ERC20 most sent token type,EOS
+42, ERC20 most sent token type,Golem
+43, ERC20 most sent token type,OmiseGO
+44, ERC20 most sent token type,Qtum
+45, ERC20 most sent token type,StatusNetwork
+46, ERC20 most sent token type,Unknown
+47, ERC20 most sent token type,blockwell.ai KYC Casper Token
+48, ERC20 most sent token type,others
