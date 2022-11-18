@@ -1,4 +1,9 @@
 # CryptoFraud
+
+#### Packages used:
+Pandas, numpy, sklearn, seaborn, matplotlib,shap,xgboost,hyperopt,tensorflow,keras
+
+
 #### Preprocessing_split_first: 
   - Run first
   - includes the EDA and processing of all variables in the original dataset(<em>transaction_dataset.csv</em>)
